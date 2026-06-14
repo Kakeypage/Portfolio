@@ -179,7 +179,7 @@ function HeroSection() {
             style={{ fontFamily: "'Poppins', sans-serif", fontStyle: "italic", fontWeight: 600 }}
             className="text-white text-[17.6px] whitespace-nowrap"
           >
-            and this is my...
+            welcome to my...
           </p>
         </div>
         <h1
