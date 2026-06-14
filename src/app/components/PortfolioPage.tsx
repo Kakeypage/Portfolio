@@ -25,7 +25,7 @@ const ALL_PROJECTS = [
     image: imgSetorIn,
     highlight: "Improved waste sorting efficiency by 40%",
     tags: ["Product Design", "Web App", "Social Impact"],
-    year: "2025",
+    year: "2026",
     link: "https://github.com/greeyash/setor.in",
   },
   {
@@ -36,7 +36,7 @@ const ALL_PROJECTS = [
     highlight: "Reduced task completion time by 30%",
     tags: ["Dashboard", "Mobile App", "UX Research"],
     link: "https://docs.google.com/document/d/1Ef8PWItLCmauvfl6EELb6-W4nYZmZSqHdKNSeYa6fpM/edit?usp=sharing",
-    year: "2024",
+    year: "2026",
   },
   {
     title: "Giziin",
@@ -46,25 +46,7 @@ const ALL_PROJECTS = [
     highlight: "1000+ active users in first month",
     tags: ["Mobile Design", "Community", "User Research"],
     link: "https://docs.google.com/document/d/1l3t7TKhmNZ6B2ZMK85Xh29LS_vyEMFSA19xbjtJdUnM/edit?usp=sharing",
-    year: "2024",
-  },
-  {
-    title: "EduFlow",
-    subtitle: "E-Learning Platform",
-    type: "Web Application",
-    image: imgPawfeed,
-    highlight: "Adopted by 3 universities as pilot program",
-    tags: ["Product Design", "Web App", "UX Research"],
-    year: "2024",
-  },
-  {
-    title: "CampusConnect",
-    subtitle: "Student Networking App",
-    type: "Mobile App Design",
-    image: imgGiziin,
-    highlight: "Selected for ITB Innovation Showcase 2025",
-    tags: ["UI/UX Design", "Mobile App", "Social Impact"],
-    year: "2025",
+    year: "2026",
   },
 ];
 
